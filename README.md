@@ -12,7 +12,7 @@ Centrality of nodes or the identification of which nodes are more “central” 
 analysis. There are many types of ways to identify the centrality of nodes which can help determine the most influential
 person of a network. For this project I will focus on three types of centrality as noted above.  For degree, this is the
 simplest of the measures based on the number of ties/connections a person has. This can help determine popularity. For
-closeness, this is based on the distance between all paris of nodes\friends. The intent behind this measure is the identify
+closeness, this is based on the distance between all paris of nodes\friends. The intent behind this measure is to identify
 the nodes\friends which could reach others quickly. For betweenness, this is based on the number of times a node\friend
 appears or acts as a bridge along the shortest path between two other nodes. This can help to determine the person which has
 the most communication flow between communities and is considered a better determination of influence than the other
