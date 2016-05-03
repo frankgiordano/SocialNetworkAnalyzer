@@ -38,7 +38,7 @@ Question 1:
 
 Question 2: 
 
-	For a given network, find the most influential person(s) based on their degree, closeness and between centrality. 
+	For a given network, find the most influential person(s) based on their degree, closeness and betweenness centrality. 
 
 Answer to the questions:
 
@@ -50,7 +50,7 @@ For the friend node id of 40, provide friend recommendation between its unconnec
 
 Question 2:
 
-The most important\influential person based on degree are friend node ids of 40 and 50 with degree value of three.
+The most important\influential person based on degree are friend node ids of 30, 40 and 50 with degree value of three.
 For importance based on closeness is friend node id of 30 with closeness value of 0.714.
 For importance based on betweenness is friend node id of 30 with betweenness value of 12. 
 
