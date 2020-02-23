@@ -1,4 +1,4 @@
-# SocialNetworkAnalyzer
+# Social Network Analyzer
 Providing some methods to analyze a Social Network.
 
 Overview:
